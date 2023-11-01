@@ -1,9 +1,11 @@
 # random-password-generator-python
 
+
 # Random Password Generator
 This is a simple random password generator in Python. It can be used to generate strong, unique passwords for your online accounts.
 
 To use the password generator, simply run the code and specify the length of the password and the character set to use. The password generator will then generate a random password of the specified length and character set.
+
 
 # Example usage:
 
@@ -17,6 +19,7 @@ Use code with caution. Learn more
 Output:
 
 2qH3W@774k#s!@#$
+
 
 # Tips for creating strong passwords:
 
